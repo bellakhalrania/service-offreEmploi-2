@@ -1,0 +1,4 @@
+com\iset\ServiceOffreEmploi2Application.class
+com\iset\Repository\OffreRepository.class
+com\iset\web\RestOffres.class
+com\iset\entities\Offre.class
